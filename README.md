@@ -5,13 +5,13 @@
  
 # Linguagem:
 
- Python
- Utilizando o Gradio como interface gráfica.
+ <p>Python.</p>
+ <p>Utilizando o Gradio como interface gráfica.</p>
  
 # Objetivo:
 
- Classificar em suas espécies, alguns tipos de dinossauros. 
- As espécies escolhidas: Stegosaurus, Triceratops e Tyrannosaurus rex.
+ <p>Classificar em suas espécies, alguns tipos de dinossauros. </p>
+ <p>As espécies escolhidas: Stegosaurus, Triceratops e Tyrannosaurus rex.</p>
  
 # Imagens do projeto:
 
